@@ -1,0 +1,32 @@
+div.donHang-contain{
+    width: 100%;
+    height: auto;
+}
+/* div.donNgay{
+    width: 100%;
+} */
+div.tongTien{
+    font-weight: bold;
+    padding-left:3vw;
+    float: left;
+    width: 50%;
+    padding-bottom: 3vw;
+}
+div.trangThai{
+    padding-left:3vw;
+    float: right;
+    width: 50%;
+    font-weight: bold;
+    padding-bottom: 3vw;
+}
+div.donNgay{
+    /* border: solid; */
+    font-weight: bold;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+   
+   
+}
+.tongTien,.trangThai{
+    box-shadow: 0px 1px 0px 0px;
+}

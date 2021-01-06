@@ -1,0 +1,11 @@
+.cart {
+    width: 95%;
+    height: 100%;
+}
+.nullCart{
+    width: 100%;
+    height: 60%;
+    margin-bottom: 60vh;
+    text-align: center;
+    font-size: 3vw;
+}

@@ -1,0 +1,58 @@
+[
+    {
+      "maMatHang": 123,
+      "tenMatHang": "demo3",
+      "moTa": "abcd",
+      "URL": [
+        "https://www.upsieutoc.com/images/2020/07/18/img1.jpg",
+        "https://www.upsieutoc.com/images/2020/07/18/img2.jpg"
+      ],
+      "gia": "3",
+      "soLuongHienCo": "5"
+    },
+    {
+      "maMatHang": 124,
+      "tenMatHang": "demo4",
+      "moTa": "abcd",
+      "URL": [
+        "https://www.upsieutoc.com/images/2020/07/18/img4.jpg",
+        "https://www.upsieutoc.com/images/2020/07/18/img3.jpg"
+      ],
+      "gia": "4",
+      "soLuongHienCo": "5"
+    },
+    {
+      "maMatHang": 125,
+      "tenMatHang": "demo5",
+      "moTa": "abcd",
+      "URL": [
+        "https://www.upsieutoc.com/images/2020/07/18/img3.jpg",
+        "https://www.upsieutoc.com/images/2020/07/18/img4.jpg"
+      ],
+      "gia": "5",
+      "soLuongHienCo": "5"
+    },
+    {
+      "maMatHang": 126,
+      "tenMatHang": "demo6",
+      "moTa": "abcd",
+      "URL": [
+        "https://www.upsieutoc.com/images/2020/07/18/img5.jpg",
+        "https://www.upsieutoc.com/images/2020/07/18/img6.jpg"
+      ],
+      "gia": "6",
+      "soLuongHienCo": "5"
+    },
+    {
+      "maMatHang": 127,
+      "tenMatHang": "demo7",
+      "moTa": "abcd",
+      "URL": [
+        "https://www.upsieutoc.com/images/2020/07/18/img2.jpg",
+        "https://www.upsieutoc.com/images/2020/07/18/img1.jpg"
+      ],
+      "gia": "7",
+      "soLuongHienCo": "5"
+    }
+  ]
+  

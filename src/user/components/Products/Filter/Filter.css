@@ -1,0 +1,39 @@
+.droplist{
+    margin: 10px 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.FilterContent{
+    margin: 10px 15px;
+    border: none;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+}
+
+select {
+    margin-bottom: 1em;
+    border: 0;
+    border-bottom: 1px solid currentcolor; 
+    font-weight: bold;
+    letter-spacing: .15em;
+    border-radius: 0;
+    font-size: larger;
+  }
+
+select:focus{
+  outline: 0;
+  border-bottom-color: rgb(0, 140, 255);
+}
+
+select:active{
+  outline: 0;
+  border-bottom-color: rgb(0, 140, 255);
+}
+
+.Filter{
+    text-align: center;
+    align-items: center;
+}

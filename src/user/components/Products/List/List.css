@@ -1,0 +1,76 @@
+.colors button,
+.sizes button{
+  width: 35px;
+  height: 35px;
+}
+.box-details p{
+  line-height: 1.5;
+  margin: 10px 10px;
+  opacity: 0.8;
+  align-items: left;
+  text-align: left;
+}
+.box-details h3{
+  color: crimson;
+}
+.box-details .thumb{
+  display: flex;
+  cursor: pointer;
+}
+/* .box-details .thumb img{
+  width: 10vw;
+  height: 10vw;
+  display: block;
+  object-fit: cover;
+  margin: 20px;
+  overflow: hidden;
+} */
+.box-details .cart{
+  padding: 10px 25px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+
+.page{
+    text-align: center;
+}
+
+.gia:hover{
+    color: black;
+}
+
+.gia:focus{
+    outline: none;
+}
+
+.card-img-top{
+    height: 15vw;
+    padding: 1px;
+}
+
+.card{
+    /* box-shadow: 0px 1px 1px 1px; */
+    
+}
+
+.card:hover{
+    transform: scale(1.08);
+  transition: all 0.3s ease-out;
+}
+
+.card-title{
+    font-size: 110%;
+    height: 5vw;
+    align-items: center;
+    text-align: center;
+    padding-left: inherit;
+    font-weight: bold;
+}
+
+.card-btn{
+    padding: none;
+}
+.mat-hang{
+    margin-left: 2vw;
+}

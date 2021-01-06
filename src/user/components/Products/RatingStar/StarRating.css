@@ -1,0 +1,13 @@
+.label {
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: inline-block
+}
+
+.star {
+    cursor: pointer;
+    transition: color 200ms;
+  } 

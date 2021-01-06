@@ -1,0 +1,15 @@
+.star{
+    font-size: 200%;
+}
+
+.avatarctn{
+    
+    text-align: center;
+    margin: auto 0;
+}
+
+.avatar{
+    border: 0.5px solid;
+    border-radius: 50%;
+    width: 80%;
+}
